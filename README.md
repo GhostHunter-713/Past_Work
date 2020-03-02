@@ -3,7 +3,7 @@ A collection of my past work to show what projects I have been a part of. Curren
 
 - In the "Game Mechanics" folder, there are my contributions as the lead developer for the character and assisted in the development of the enemies.
 
-- GUI folder contains the final assignment for the class that covers all aspects covered in the class that is fully function an developed in intellij.
+- "GUI" folder contains the final assignment for the class that covers all aspects covered in the class. It was developed using javaFX in intellij.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
